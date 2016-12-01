@@ -1,6 +1,6 @@
 Package.describe({
   name: 'alonoslav:fontawesome-iconpicker',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Fontawesome bootstrap icon picker',
   git: 'https://github.com/alonoslav/fontawesome-iconpicker',
   documentation: 'README.md',
@@ -13,7 +13,7 @@ Package.onUse(function (api) {
   api.use([
     'ecmascript',
     'jquery',
-    'fortawesome:fontawesome@4.6.3',
+    'fortawesome:fontawesome@4.7.0',
   ], 'client');
 
   api.addFiles(['lib/fontawesome-iconpicker.css'], 'client');
