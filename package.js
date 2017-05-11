@@ -1,6 +1,6 @@
 Package.describe({
   name: 'alonoslav:fontawesome-iconpicker',
-  version: '0.0.2',
+  version: '1.0.0',
   summary: 'Fontawesome bootstrap icon picker',
   git: 'https://github.com/alonoslav/fontawesome-iconpicker',
   documentation: 'README.md',
